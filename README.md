@@ -116,6 +116,7 @@ python run.py
 
 # EXPECTED OUTPUT:
 
+```
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║                                📈🚀✨ ADYA  📈🚀✨                        ║
 ║                  MCP Server Integration Hackathon 2k25 !!                    ║
@@ -123,6 +124,7 @@ python run.py
 ║  ✅ Server running on http://0.0.0.0:5001 ✅                                ║
 ║  ✅ MCP servers initialization started                                      ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
+```
 
 
 # 🔌 Integrated MCP Servers
@@ -149,6 +151,7 @@ pip install --upgrade -r requirements.txt
 ### Gemini
 
 Gemini API key : `AIzaSyB3-j9gYSLIYf8sParyBcq7SV7RFwSmx90`
+
 Chat Model: `gemini-1.5-flash`
 
 ### Coinstats
