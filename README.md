@@ -127,11 +127,14 @@ python run.py
 
 # 🔌 Integrated MCP Servers
 
-Server Name	Location Path	Status
-Blender MCP	python/servers/blender-mcp	✅ Live
-CoinStats MCP	python/servers/coinstats-mcp	✅ Live
-MCP Mermaid	python/servers/mcp-mermaid	✅ Live
-Readwise MCP	python/servers/readwise-mcp	✅ Live
+# MCP Servers Status
+
+| Server Name | Location Path | Status |
+|-------------|---------------|--------|
+| Blender MCP | python/servers/blender-mcp | ✅ Live |
+| CoinStats MCP | python/servers/coinstats-mcp | ✅ Live |
+| MCP Mermaid | python/servers/mcp-mermaid | ✅ Live |
+| Readwise MCP | python/servers/readwise-mcp | ✅ Live |
 
 ## If Incase of Missing Dependencies:
 Run the following command:
